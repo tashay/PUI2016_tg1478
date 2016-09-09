@@ -7,20 +7,20 @@ For this assignment I worked with Ben Miller (bsmiller25). First, I forked Ben's
 Ben later merged the pull request and committed my changes to his original file. Ben also performed the same actions on my repository "gittest_tg1478."
 
 
-
 ## Assignment 2: Set up your environment: 
 
-1. Generate a directory on compute called PUI2016_\<netID>. 
 
-2. Create an environmental variable on your compute account called PUI2016 that points to the directory PUI2016_<netID> by its full directory path: starting with /home [/home on a linux box, and with /Users on a mac if you want to replicate it on your machine] so that typing 
+1. I created a directory on compute called PUI2016_tg1478.
+2. I created an environmental variable on compute called PUI2016, that returns the full path to the directory PUI2016_tg1478.
+
+If I run the command 
 	```
-	echo $PUI2016 
+	echo $PUI2016
 	```
-returns the full path to the directory. Save  it in the .bashrc [.bashrc for (linux) or .bash_profile (OS X) if you want to replicate it on your machine] so that every time you open a new terminal the terminal knows what the $PUI2016 environmental variable (env var) is set to. To log into compute, as you know, you want to run the command 
-	```
-	ssh -X -A -t <netID>@gw.cusp.nyu.edu ssh -A -X compute 	
-	```
-on your terminal. Alternatively you can log in with the remote desktop into the green environment, and open a shell there.
+the full path to the directory is returned. 
+
+![Screenshot 1 Assignment 2: my .bashrc](HW1 SS1.png)
+
 
 3. Create an alias such that typing 
  	```
