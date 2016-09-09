@@ -27,8 +27,8 @@ Ben later merged the pull request and committed my changes to his original file.
 ![Screenshot 1 Assignment 2: my .bashrc](HW1_SS1.png)
 
 5. After typing this series of commands on the terminal, I am successfully navigated back to the PUI2016_tg1478 directory. 
-        ```
-	pwd
+ 	```
+ 	pwd
 	pui2016
 	pwd
 	```
