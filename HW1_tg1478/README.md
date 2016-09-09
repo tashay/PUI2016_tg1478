@@ -9,23 +9,19 @@ Ben later merged the pull request and committed my changes to his original file.
 
 ## Assignment 2: Set up your environment: 
 
-
 1. I created a directory on compute called PUI2016_tg1478.
 2. I created an environmental variable on compute called PUI2016, that returns the full path to the directory PUI2016_tg1478.
 
-If I run the command 
+	If I run the command 
 	```
 	echo $PUI2016
 	```
-the full path to the directory is returned. 
+	the full path to the directory is returned. 
 
-
-3. I created an alias so that typing
+3. I created an alias so that typing the following command takes me to the PUI2016_tg1478 diretory. 
  	```
 	pui2016 
 	```
-takes me to the PUI2016_tg1478 diretory. 
-
 4. Screenshot of my .bashrc
 
 ![Screenshot 1 Assignment 2: my .bashrc](HW1_SS1.png)
@@ -36,7 +32,7 @@ takes me to the PUI2016_tg1478 diretory.
 	pui2016
 	pwd
 	```
-I am successfully navigated back to the PUI2016_tg1478 directory. 
+	I am successfully navigated back to the PUI2016_tg1478 directory. 
 
 ![Screenshot 2 Assignment 2: my succesfull commands using $PUI2016 and the pui2016 alias](HW2_SS1.png)
 
