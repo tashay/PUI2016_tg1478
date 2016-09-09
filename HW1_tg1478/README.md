@@ -31,7 +31,6 @@ Ben later merged the pull request and committed my changes to his original file.
 	pwd
 	```
 	I am successfully navigated back to the PUI2016_tg1478 directory. 
-	
 ![Screenshot 2 Assignment 2: my successful commands using $PUI2016 and the pui2016 alias](HW1_SS2.png)
 
 6. Github repo PUI2016_tg1478 has been created. 
