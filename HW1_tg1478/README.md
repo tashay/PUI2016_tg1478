@@ -19,24 +19,27 @@ If I run the command
 	```
 the full path to the directory is returned. 
 
-![Screenshot 1 Assignment 2: my .bashrc](HW1 SS1.png)
 
-
-3. Create an alias such that typing 
+3. I created an alias so that typing
  	```
 	pui2016 
 	```
-takes you to that directory. The alias must use the 'cd' command, and the env var $PUI2016 to do so. 
+takes me to the PUI2016_tg1478 diretory. 
 
-4. Take a screenshot of your .bashrc file so that we can see the alias and env var you created. 
+4. Screenshot of my .bashrc
 
-6. Type this series of commands on the terminal:	
+![Screenshot 1 Assignment 2: my .bashrc](HW1_SS1.png)
+
+5. After typing this series of commands on the terminal:	
 	```
 	pwd
 	pui2016
 	pwd
 	```
-Take a screenshot of your terminal that shows this series of commands and their output. 
+I am successfully navigated back to the PUI2016_tg1478 directory. 
+
+![Screenshot 2 Assignment 2: my succesfull commands using $PUI2016 and the pui2016 alias](HW2_SS1.png)
+
 
 7. Once your environment is set up, go to github online and CREATE A NEW GITHUB REPO CALLED PUI2016_\<netID> ( this for me would be PUI2016_fb55: https://github.com/fedhere/PUI2016_fb55 ). Follow the github directions to create a repository on the command line on your local machine (https://help.github.com/articles/creating-a-new-repository/).  Notice that in this case you are working in the reverse order compared to the lab: you create the first instance of the repository on the remote server (on the web) and then you create a local repo to link to it on your machine. Follow the steps indicated by github to create the repo, a README.md file, and to link the online and the local repos. 
 
@@ -54,8 +57,7 @@ for the new set up to be incorporated in your environment. However, every new ba
 ### GRADING: 
 We will grade you based on the README.md file you create in the github directory as described above. The README.mdfile **has to be your own!** While you can work in groups this must be written by you in your own words, to show you know what is going on. The screen shots need to show the appropriate lines in the .bashrc and that running the commands as requested takes you to the right directory.
 
-![Screenshot 1 Assignment 2: my .bashrc](HW1_SS1.png)
-![Screenshot 2 Assignment 2: my succesfull commands using $PUI2016 and the pui2016 alias](HW1_SS2.png)
+
 
 ## Assignment 3 - Extra Credit. 
 
