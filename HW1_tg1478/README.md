@@ -6,6 +6,8 @@ For this assignment I worked with Ben Miller (bsmiller25). First, I forked Ben's
 
 Ben later merged the pull request and committed my changes to his original file. Ben also performed the same actions on my repository "gittest_tg1478."
 
+![Screenshot 0 Assignment 1: merge](HW1_SS0.png)
+
 
 # Assignment 2: Set up your environment: 
 
