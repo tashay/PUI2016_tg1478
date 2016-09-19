@@ -28,7 +28,7 @@ Bus 4 is at latitude 40.686839 and longitude -73.964694
 
 # Assignment 2: Future Stop Information
 
-In this assignment I wrote a Python script that fetches and displays future location information of active busses using the
+In this assignment I wrote a Python script that fetches and displays future location information of active buses using the
 MTA API. The script also prints the information to a csv file per the users input in the following format:
 
 ```
