@@ -50,10 +50,10 @@ Latitude,Longitude,Stop Name,Stop Status
 
 # Assignment 3: Read CSV files with Pandas
 
-In this assignment I created a Jupyter Notebook that contain code for reading a csv file with pandas. 
+In this assignment I created a Jupyter Notebook that contains code for reading a csv file with pandas. 
 
 - I used pandas to read in a CSV file from the NYU CUSP Data Facility 
 - I have displayed the top few rows of the data file in my notebook. The table is rendered.
 - I removed all but 2 numerical values columns using the drop method of the pandas dataframe.
 - I have displayed the reducted dataframe. The table is rendered. 
-- I plotted the two numerical values columns against one another in a scatter plotusing the datafraome plot method. The plot is rendered. 
+- I plotted the two numerical values columns against one another in a scatter plot using the dataframe plot method. The plot is rendered. 
