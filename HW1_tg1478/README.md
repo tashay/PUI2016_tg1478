@@ -23,16 +23,19 @@ Ben later merged the pull request and committed my changes to his original file.
 	pui2016
 	```
 	
-4. Screenshot of my .bashrc
+4. Screenshot of my .bashrc.
+
 ![Screenshot 1 Assignment 2: my .bashrc](HW1_SS1.png)
 
-5. After typing the following commands in the terminal, I am successfully navigated back to the PUI2016_tg1478 directory.
+After typing the following commands in the terminal, I am successfully navigated back to the PUI2016_tg1478 directory.
+
 	```
 	pwd
 	pui2016
 	pwd
 	```
+	
 ![Screenshot 2 Assignment 2: my successful commands using $PUI2016 and the pui2016 alias](HW1_SS2.png)
 
-6. Github repo PUI2016_tg1478 has been created. 
-7. The directory HW1_tg1478 has been created inside the PUI2016_tg1478 repo, on my local computer and Github, which contains the README.md file describing HW1. 
+Github repo PUI2016_tg1478 has been created. 
+The directory HW1_tg1478 has been created inside the PUI2016_tg1478 repo, on my local computer and Github, which contains the README.md file describing HW1. 
