@@ -2,9 +2,12 @@ import json
 import urllib.request as ulr
 import os
 import sys
+import csv
+
 
 MTA_KEY = sys.argv[1]
 BUS_LINE = sys.argv[2]
+WRITE_TO_FILE = sys.argv[3]
 
 url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=" + MTA_KEY + "&VehicleMonitoringDetailLevel=calls&LineRef=" + BUS_LINE
 
@@ -35,3 +38,12 @@ for i in vehicle_activity:
 
 for i in range (len(vehicle_activity)):
     print (str(bus_latitude[i]) + ',' + str(bus_longitude[i]) + ',' + str(stop_name[i]) + ',' + str(stop_status[i]))
+
+
+fout = csv.writer(open(sys.argv[3], 'w'))
+fout.writerow('Latitude, Longitude, Stop Name, Stop Status')
+
+for i in range (len(vehicle_activity)):
+    fout.writerows(str(bus_latitude[i]) + ',' + str(bus_longitude[i]) + ',' + str(stop_name[i]) + ',' + str(stop_status[i]))
+
+
