@@ -10,7 +10,7 @@ a. Verified that her Null and Alternative hypotheses were formulated correctly
 
 b. Verified that the data supported the project: i.e. whether the data had the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values 
 
-c. Confirmed that she chose an appropriate test to test H0 given the type of data, and the question asked. 
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. 
 
 d. Wrote my comments, suggestions, and suggested statistical test, in a markdown named CitibikeReview_tg1478.md.
 
