@@ -1,4 +1,4 @@
-A. The method does effectively assess whether sales of 24-hour passes go up on weekends. Null and alternative hypotheses are well formulated.
+A. The method does effectively assess whether sales of 24-hour passes go up on weekends. Null and alternative hypotheses are well formulated. Tashay made sure to include equal values as part of the null hypothesis. The alternative hypothesis suggests a relationship between the dependent and independent variables, so finding no relationship would be as invalidating as finding the opposite of the expected relationship.
 
 B. The data was well selected and supports the hypothesis. There's no unnecessary data. Tashay did a good job aggregating the data for days of the week into an average for all Mondays, Tuesdays, etc.
 
