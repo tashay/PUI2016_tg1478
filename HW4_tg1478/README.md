@@ -12,9 +12,11 @@ b. Verified that the data supported the project: i.e. whether the data had the a
 
 c. Chose an appropriate test to test H0 given the type of data, and the question asked. 
 
-d. Wrote my comments, suggestions, and suggested statistical test, in a markdown named CitibikeReview_tg1478.md.
+d. Wrote my comments, suggestions, and suggested statistical test, in a markdown named CitiBikeReview_tg1478.md.
 
 e. Submitted a pull request to the original repository.
+
+CitiBikeReview_tg1478.md can be found [here] (https://github.com/tashay/PUI2016_zn352/blob/master/CitiBikeReview_tg1478.md).
 
 
 ## Assignment 2: Literature choices of statistical tests
@@ -28,7 +30,11 @@ Path Analysis	| 1, Whether a household had experienced maternal death | dichotom
 
 ## Assignment 3: Reproduce the analysis of the 'Hard to Employ' program in NY
 
+For this assignment I worked with Jordan Vani to reproduce the analysis of the 'Hard to Employ' program in NY. To reproduce the analysis we completed the following tasks: 
 
+1. Formulate Null and Alternative Hypotheses and establish a significance level of 0.05.
+2. Perform Z-test on the data, which resulted in us accepting the Null Hypothesis. 
+3. Perform chi-square test on the data, which resulted in us accepting the Null Hypothesis. 
 
 ## Assignment 4: Tests of correlation using the scipy package
 
