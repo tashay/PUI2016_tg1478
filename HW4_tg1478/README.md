@@ -16,7 +16,7 @@ I forked Zhaohong's repository that contained the Citibike proposal and complete
 
 - Submitted a pull request to the original repository.
 
-CitiBikeReview_tg1478.md can be found [here] (https://github.com/tashay/PUI2016_zn352/blob/master/CitiBikeReview_tg1478.md).
+CitiBikeReview_tg1478.md can be found here: (https://github.com/tashay/PUI2016_zn352/blob/master/CitiBikeReview_tg1478.md).
 
 
 ## Assignment 2: Literature choices of statistical tests
