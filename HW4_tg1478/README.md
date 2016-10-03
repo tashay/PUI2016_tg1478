@@ -6,15 +6,15 @@ To complete this assignment, I reviewed Zhaohong Niu (zn352)'s Citibike project 
 
 I forked Zhaohong's repository that contained the Citibike proposal and completed the following tasks:
 
-a. Verified that her Null and Alternative hypotheses were formulated correctly
+- Verified that her Null and Alternative hypotheses were formulated correctly
 
-b. Verified that the data supported the project: i.e. whether the data had the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values 
+- Verified that the data supported the project: i.e. whether the data had the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values 
 
-c. Chose an appropriate test to test H0 given the type of data, and the question asked. 
+- Chose an appropriate test to test H0 given the type of data, and the question asked. 
 
-d. Wrote my comments, suggestions, and suggested statistical test, in a markdown named CitiBikeReview_tg1478.md.
+- Wrote my comments, suggestions, and suggested statistical test, in a markdown named CitiBikeReview_tg1478.md.
 
-e. Submitted a pull request to the original repository.
+- Submitted a pull request to the original repository.
 
 CitiBikeReview_tg1478.md can be found [here] (https://github.com/tashay/PUI2016_zn352/blob/master/CitiBikeReview_tg1478.md).
 
@@ -32,10 +32,15 @@ Path Analysis	| 1, Whether a household had experienced maternal death | dichotom
 
 For this assignment I worked with Jordan Vani to reproduce the analysis of the 'Hard to Employ' program in NY. To reproduce the analysis we completed the following tasks: 
 
-1. Formulate Null and Alternative Hypotheses and establish a significance level of 0.05.
-2. Perform Z-test on the data, which resulted in us accepting the Null Hypothesis. 
-3. Perform chi-square test on the data, which resulted in us accepting the Null Hypothesis. 
+- Formulated Null and Alternative Hypotheses and established a significance level of 0.05.
+- Performed Z-test on the data, which resulted in us accepting the Null Hypothesis. 
+- Performed chi-square test on the data, which resulted in us accepting the Null Hypothesis. 
 
 ## Assignment 4: Tests of correlation using the scipy package
 
+The purpose of this assignment was to use a subset of CitiBike trip data to determine whether the distribution of male and female riders were the same. 
 
+I performed the following tests on the data: 
+- Pearson's Test
+- Spearman's Test
+- K-S Test
