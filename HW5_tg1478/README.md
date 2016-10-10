@@ -12,7 +12,7 @@ Findings: The Gaussian model is not sensible for analyzing age distribution of C
 
 ## Assignment 2: Line fitting and data wrangling using gendered income 
 
-To complete regression plotting, I worked collaboratively with Jordan Vani. 
+To complete regression plotting, I received assistance from Jordan Vani. 
 
 For this assignment, I compared the income level of males and females by race. I plotted the income data and fit it with OSL and Spearman analytical regressions. 
 
