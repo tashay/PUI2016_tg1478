@@ -2,8 +2,15 @@
 
 ## Assignment 1: Manhattan Building Energy Usage
 
-Findings: 
+The regression plotting for this assignment was done with assistance from Jordan Vani. 
 
+For this assignment, I used NYC Energy Consumption data to explore whether we could predict the amount of energy used based on the number of units in a building. 
+
+The analysis required two datasets to be merged, the Manhattan PLUTO shapefile and the NYC Energy and Water data file. 
+
+After cleaning and merging the data, I fitted it with an OLS regression and a 2nd degree polynomial regression to determine which model better described the data. 
+
+Findings: According the the Likelihood Ratio Test, the 2nd degree polynomial was a better fit for the data. 
 
 ## Assignment 2: CitiBike Rider and Membership Investigation
 This investigative analysis and Authorea write-up was done collaboratively with Jordan Vani. 
