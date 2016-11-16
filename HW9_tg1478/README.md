@@ -10,5 +10,6 @@ For this assignment, we were tasked with performing time series analysis on MTA 
 
 #### Task 2: Identify Trends
 - Identify trends in card type usage over the first and last 10 weeks of the 194 week period. 
+
 #### Task 3: Periodicity
 - Identify MTA Subway stations with prominent annual periodicity over the 194 week period. 
