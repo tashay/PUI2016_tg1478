@@ -10,6 +10,8 @@ For this assignment, I completed the following tasks:
 - Plot Brooklyn polygons and CUSP point.
 
 ## Assignment 2: Clustering Time Trends for Businesses in NYC 
+I consulted Geoff Perrin on this assignment. He assisted me with errors pertaining to reading in the data and removing infinit values.
+
 For this assignment, I completed the following tasks:
 - Get and prep NYC zipcode & NYC businesses data
 - Cluster the # of establishments time series data with K-means 
