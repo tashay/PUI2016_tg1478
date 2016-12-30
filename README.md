@@ -9,5 +9,7 @@ Assignments within this repository will address Data Science concepts such as:
 - Error Analysis
 - Time Series Analysis
 - Spatial Analysis
+- Machine Learning
+
 
 All work is done with Python language and packages. 
